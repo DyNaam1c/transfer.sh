@@ -1,2 +1,2 @@
 # transfer.sh
-A python script to automatically upload file to transfer.sh with the get ;)
+A python script to automatically upload files to transfer.sh with the get ;)
