@@ -10,3 +10,8 @@ A python script to automatically upload files to transfer.sh with the "get" and 
 
 . run the script and provide the path to the file of choice.
 
+# ☕️Buy me a coffee
+BTC: bc1q80jm6sqtaj9y7kcgtztydgq5z9pluzctxq92je
+
+ETH: 0x55E6C33173E4b39495670A581CBA59CeC8020599
+
